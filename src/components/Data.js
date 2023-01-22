@@ -40,7 +40,7 @@ import React, { Component } from 'react'
       <div>
           <Form getWeather={this.getWeather}/>
         <Weather weather={this.state.weatherInfo}/>
-        dfgksflgjfskgj;
+        dfgksflgjfskgj;GLHJDLGHJK;DFKJGH
       </div>
     )
   }
